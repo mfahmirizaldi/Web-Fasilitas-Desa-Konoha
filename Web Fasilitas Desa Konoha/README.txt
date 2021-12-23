@@ -7,7 +7,7 @@ Kelompok 13 - Kelas C PAW
 
 How to run :
 
-1. Buka link http://localhost/phpmyadmin/ 
+1. Buka link http://localhost/phpmyadmin/ atau link domain http://fasilitasdesa.000webhostapp.com/ 
 2. Buat database baru dengan nama 'dbfasilitas', kemudian import file sql yang ada didalam folder 'db file'
 3. Copykan folder Web Fasilitas Desa Konoha ke Direktori C:\xampp\htdocs
 4. Setelah itu buka http://localhost/Web%20Fasilitas%20Desa%20Konoha/ untuk menjalankan aplikasinya
